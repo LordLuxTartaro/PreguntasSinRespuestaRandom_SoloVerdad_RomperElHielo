@@ -1,0 +1,13 @@
+{
+"companyName": "PabloSanagustinBallesteros",
+"productName": "Preguntas_SinRespuesta_Random_SoloVerdad",
+"dataUrl": "Preguntas Sin Respuesta Random - Solo verdad - Romper el Hielo.data.unityweb",
+"wasmCodeUrl": "Preguntas Sin Respuesta Random - Solo verdad - Romper el Hielo.wasm.code.unityweb",
+"wasmFrameworkUrl": "Preguntas Sin Respuesta Random - Solo verdad - Romper el Hielo.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
